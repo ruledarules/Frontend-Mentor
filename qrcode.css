@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: rgb(218, 228, 248);
 }
@@ -7,7 +11,8 @@ body{
 #improve{
     font-weight: 700;
     color: hsl(218,44%,22%);
-    font-size:x-large
+    font-size:x-large;
+    margin: 20px 0;
 }
 .scanit{
     color: rgba(181, 186, 192, 0.788);
@@ -19,7 +24,7 @@ body{
 }
 .attribution a { 
     color: hsl(228, 45%, 44%);  */
-}
+/* } */
 .codeWords{
     background-color: white;
     width: 330px;
